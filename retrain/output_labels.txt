@@ -1,0 +1,5 @@
+flower
+guitar
+house
+motobike
+plane
